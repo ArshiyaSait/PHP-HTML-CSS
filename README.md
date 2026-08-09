@@ -9,6 +9,6 @@ Learning Outcomes:
 
 Through these programs, the following concepts are demonstrated: HTML Forms CSS Styling Responsive Web Design PHP Form Handling Input Validation String Functions User-Defined Functions Decision-Making Statements Loops and Control Structures Dynamic Web Page Generation
 
-Developed By: Maheesa Shafrin M S B.Sc. Computer Science
+Developed By: Arshiya M B.Sc. Computer Science
 
 License: This repository is created for educational and academic purposes as part of the Web Designing and Development Laboratory.
